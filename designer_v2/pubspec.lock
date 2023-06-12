@@ -465,18 +465,18 @@ packages:
     dependency: "direct main"
     description:
       name: reactive_color_picker
-      sha256: "7c546a130174b258feb966080281bec737076900832873ba7fe481c414e5b738"
+      sha256: "2073c0be3a670d71e22acba2c797b9addb83026fbd67669e816b584dd4d31810"
       url: "https://pub.dev"
     source: hosted
-    version: "0.5.0"
+    version: "1.0.0"
   reactive_forms:
     dependency: "direct main"
     description:
       name: reactive_forms
-      sha256: "5aa9c48a0626c20d00a005e597cb10efbdebbfeecb9c4227b03a5945fbb91ec4"
+      sha256: "7f3c7b53d5a875f002658bf675313d0d11795ee58cf8591f26c906b7a86c2b0a"
       url: "https://pub.dev"
     source: hosted
-    version: "14.3.0"
+    version: "15.0.0"
   realtime_client:
     dependency: transitive
     description:
@@ -653,16 +653,18 @@ packages:
   studyu_core:
     dependency: "direct main"
     description:
-      path: "../core"
-      relative: true
-    source: path
+      name: studyu_core
+      sha256: "10050c70a3447771e22d1b586ded2960e2a908986d4ad0d3bf083f3fa6fff582"
+      url: "https://pub.dev"
+    source: hosted
     version: "4.3.0-dev.1"
   studyu_flutter_common:
     dependency: "direct main"
     description:
-      path: "../flutter_common"
-      relative: true
-    source: path
+      name: studyu_flutter_common
+      sha256: c6e4d8312b1d9b02926b7155e9f26405238001b364215e9e4736949b229536cc
+      url: "https://pub.dev"
+    source: hosted
     version: "1.6.2-dev.2"
   supabase:
     dependency: "direct main"
