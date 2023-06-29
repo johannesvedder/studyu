@@ -170,10 +170,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
-      sha256: aeb0b80a8b3709709c9cc496cdc027c5b3216796bc0af0ce1007eaf24464fd4c
+      sha256: "2118df84ef0c3ca93f96123a616ae8540879991b8b57af2f81b76a7ada49b2a4"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.1"
+    version: "2.0.2"
   flutter_localizations:
     dependency: "direct main"
     description: flutter
@@ -653,16 +653,18 @@ packages:
   studyu_core:
     dependency: "direct main"
     description:
-      path: "../core"
-      relative: true
-    source: path
+      name: studyu_core
+      sha256: "10050c70a3447771e22d1b586ded2960e2a908986d4ad0d3bf083f3fa6fff582"
+      url: "https://pub.dev"
+    source: hosted
     version: "4.3.0-dev.1"
   studyu_flutter_common:
     dependency: "direct main"
     description:
-      path: "../flutter_common"
-      relative: true
-    source: path
+      name: studyu_flutter_common
+      sha256: c6e4d8312b1d9b02926b7155e9f26405238001b364215e9e4736949b229536cc
+      url: "https://pub.dev"
+    source: hosted
     version: "1.6.2-dev.2"
   supabase:
     dependency: "direct main"
