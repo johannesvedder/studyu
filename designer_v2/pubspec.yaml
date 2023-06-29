@@ -32,7 +32,7 @@ dependencies:
   studyu_core: ^4.3.0-dev.1
   studyu_flutter_common: ^1.6.2-dev.2
   supabase: ^1.9.0
-  supabase_flutter: ^1.10.0
+  supabase_flutter: ^1.10.6
   url_launcher: ^6.1.11
   uuid: ^3.0.7
 
